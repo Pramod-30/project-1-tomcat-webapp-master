@@ -508,7 +508,7 @@ text-transform: uppercase;
                         <h2>DevOps Deployment Project</h2>
                         <div class="redLine"></div>
                         <p>
-                            DevOps is a Combination of Development and Operations. In DevOps we have deployed the webpages on internet using the cloud platforms like AWS, Azure, GCP etc.
+                            Hi! DevOps is a Combination of Development and Operations. In DevOps we have deployed the webpages on internet using the cloud platforms like AWS, Azure, GCP etc.
                             There are many tools that I used to deploy the webpages online like <span>Docker, Nginx, Nagios, Maven, Ansible, Terraform, Git, GitHub, Kubernetes</span>.
                             My Deployment Projects are as follows <span class="color:#fb1515;font-weight: bolder;"></span> 
                         </p>
